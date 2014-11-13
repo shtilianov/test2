@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.SecondTry",
   "DisplayName": "SecondTry",
   "Author": "",
-  "Description": "",
+  "Description": "SecondTry",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [

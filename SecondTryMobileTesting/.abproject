@@ -1,0 +1,26 @@
+{
+  "ProjectName": "SecondTryMobileTesting",
+  "ProjectGuid": "c20a9cb8-c1b4-4bb2-83f6-fd10405f5d08",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SecondTryMobileTesting",
+  "DisplayName": "SecondTryMobileTesting",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "MobileTesting"
+}
